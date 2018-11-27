@@ -3,7 +3,9 @@ mononymous artists by day
 
 ## [suggest star](../../issues/new)
 
-Open [an issue](../../issues/new) to tell us who :star:
+[open an issue](../../issues/new) to tell us who :star:
+
+or pull request [like this example](../../pull/8)
 
 
 
