@@ -2,7 +2,7 @@
 
 ## [suggest star](../../issues/new)
 
-[open an issue](../../issues/new) to tell us who :star:
+[open an issue to tell us who](../../issues/new) :star:
 
 or pull request [like this example](../../pull/8)
 
