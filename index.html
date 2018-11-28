@@ -7,14 +7,27 @@
 <meta name="theme-color" content="#bae4ea">
 
 <style>
-  html { font: 1rem/1.5 monospace }
-  body { font-size: calc(1em + 1vw + 1vh); padding: 1em 3em; margin: 0 }
+  html { font: 1rem/1.5 impact, arial, georgia, monospace }
+  body {
+    font-size: calc(1em + 1vw + 1vh);
+    padding: 1em 2em;
+    margin: 0;
+  }
+
   .bleach * { color: inherit }
-  :focus { outline-color: #bae4ea }
+  :focus { outline-color: Yellow }
 
   .stars-in-progress {
     list-style-type: none;
     padding: 0;
+  }
+
+  .starburst {
+    margin-bottom: 1.5rem;
+  }
+
+  .horizon {
+    font-size: 1.5em;
   }
 </style>
 
@@ -35,20 +48,22 @@
 .zodiac-moon { background: #111 !important; color: #fcfcfc !important }
 </style>
 
-<header>
-  366 stars <a href="https://github.com/s9a/daze#readme">in progress</a>
+<header class="horizon">
+  366 stars <a class="zodiac-sun" href="https://github.com/s9a/daze#readme">in prog<wbr>ress</a>
 </header>
 
 <ol class="stars-in-progress">
-  <li>2/02 is Shakira
-  <li>2/20 is Rihanna
-  <li>6/07 is Prince
-  <li>6/16 is 2Pac
-  <li>7/18 is M.I.A.
-  <li>9/04 is Beyoncé
-  <li>9/08 is P!nk
-  <li>10/2 is Gandhi
-  <li>10/17 is Eminem
-  <li>10/24 is Drake
-  <li>11/21 is Björk
+  <li class="starburst">2/02 Shakira
+  <li class="starburst">2/20 Rihanna
+  <li class="starburst">6/07 Prince
+  <li class="starburst">6/16 2Pac
+  <li class="starburst">7/18 M.I.A.
+  <li class="starburst">9/04 Beyoncé
+  <li class="starburst">9/08 P!nk
+  <li class="starburst">10/2 Gandhi
+  <li class="starburst">10/17 Eminem
+  <li class="starburst">10/24 Drake
+  <li class="starburst">11/21 Björk
 </ol>
+
+<a class="zodiac-sun" href="https://github.com/s9a/daze#readme">Feeling stars?</a>
