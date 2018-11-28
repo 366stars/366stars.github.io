@@ -4,7 +4,10 @@
 
 [open an issue to tell us who](../../issues/new) :star:
 
-mononymous artist names are ideal for this poster :p
+- artist names are ideal for this poster because then we can create playlist too :p
+- mononymous names are ideal because we want to shoutout these names
+- our vision is for this to be a simple memory tool with depth
+
 
 
 
