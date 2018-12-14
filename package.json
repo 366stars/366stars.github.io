@@ -1,0 +1,23 @@
+{
+  "name": "@s9a/daze",
+  "version": "0.0.0",
+  "description": "366 stars in progress",
+  "license": "ISC",
+  "main": "index.html",
+  "scripts": {
+    "preversion": "npm ls",
+    "test": "npm ls"
+  },
+  "homepage": "https://s9a.github.io/daze/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s9a/daze.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s9a/daze/issues"
+  },
+  "keywords": [
+    "zodiac",
+    "poster"
+  ]
+}
