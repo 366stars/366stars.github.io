@@ -1,4 +1,4 @@
-## [366 stars in progress poster](https://s9a.github.io/daze/)
+## [366 stars in progress poster](https://366stars.github.io)
 
 ## [suggest star](../../issues/new)
 
