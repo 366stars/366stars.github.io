@@ -1,7 +1,7 @@
 # [366 stars](https://366stars.github.io) in progress
 
-### Suggest star on [Github](../../issues/new) or [Twitter](https://twitter.com/366stars)
+### [Suggest new name](../../issues/new)
 
-* Artist names are ideal for playlist potential :p
-* We love mononymous names!
+* We love original mononymous names!
+* Especially fresh artist names with music online :p
 * It's a memory palace =)
